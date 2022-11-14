@@ -1,5 +1,3 @@
-package Projekt;
-
 public interface EmployeesI {
      void decision();
      void speedUpEmployee();

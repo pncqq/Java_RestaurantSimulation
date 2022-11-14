@@ -1,5 +1,3 @@
-package Projekt;
-
 import java.text.SimpleDateFormat;
 import java.util.Vector;
 import java.util.Date;

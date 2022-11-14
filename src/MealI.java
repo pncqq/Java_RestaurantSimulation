@@ -1,5 +1,3 @@
-package Projekt;
-
 public interface MealI {
     int getPrice();
     String getName();

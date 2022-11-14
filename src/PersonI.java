@@ -1,5 +1,3 @@
-package Projekt;
-
 public interface PersonI {
     void sumTip(double tip);
 

@@ -1,5 +1,3 @@
-package Projekt;
-
 import java.util.*;
 
 public class Functions {

@@ -1,5 +1,3 @@
-package Projekt;
-
 public class Meal implements MealI {
     //=====================POLA=======================//
     private int price;

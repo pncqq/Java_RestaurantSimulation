@@ -1,5 +1,3 @@
-package Projekt;
-
 import java.io.IOException;
 
 interface MenuI {

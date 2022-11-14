@@ -1,5 +1,3 @@
-package Projekt;
-
 import java.time.*;
 import java.util.*;
 

@@ -1,5 +1,3 @@
-package Projekt;
-
 import java.util.Vector;
 
 public interface OrderI {

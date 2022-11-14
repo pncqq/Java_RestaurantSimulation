@@ -1,5 +1,3 @@
-package Projekt;
-
 public interface KitchenI {
 
     void decision() throws InterruptedException;

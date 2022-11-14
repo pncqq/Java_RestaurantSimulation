@@ -1,5 +1,3 @@
-package Projekt;
-
 public class OrderAway extends Order {
 
     private String adress;

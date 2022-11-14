@@ -1,6 +1,3 @@
-package Projekt;
-
-
 public class Person implements PersonI {
     //=====================POLA=======================//
     private String name;

@@ -1,5 +1,3 @@
-package Projekt;
-
 import java.util.Map;
 import java.util.Scanner;
 
