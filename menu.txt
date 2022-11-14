@@ -1,0 +1,12 @@
+Aktualne menu restauracji:
+=======================================
+Schabowy z ziemniakami; Schab w panierce z mlodymi ziemniakami. [35zl]	#1
+Pomidorowa zupa; Zupa ze swiezych pomidorow. [20zl]	#2
+Krem z dyni; Zupa-krem z dyni. [20zl]	#3
+Zupa dnia; Aktualna zupa dnia. [20zl]	#4
+Frytki; Frytki z ziemniakow. [8zl]	#5
+Golonka; 300g golonki. [50zl]	#6
+Woda z lodowca; Naturalna woda z lodowca. [99zl]
+Harnas Ice Tea; Domowej roboty Harnas Ice Tea w proporcji 1:1. [25zl]
+Kepucz; Robiony na miejscu. [1zl]
+=======================================
