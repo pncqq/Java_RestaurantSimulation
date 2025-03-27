@@ -1,20 +1,43 @@
-# RestaurantSimulation
-Restaurant simulation with multi-threading and various functions.
+# 🍽 Java_RestaurantSimulation
 
-<b>Features:</b> <br><br>
-<span>&#8226;</span> Order placement (uses multithreading)<br><br>
-<span>&#8226;</span> Stationary ordering for table and take-out ordering with delivery<br><br>
-<span>&#8226;</span> Expanded Menu<br><br>
-<span>&#8226;</span> Organization and viewing of orders<br><br>
-<span>&#8226;</span> Prioritization of orders<br><br>
-<span>&#8226;</span> Menu editing<br><br>
-<span>&#8226;</span> Load/save Menu to file<br><br>
-<span>&#8226;</span> Outdating orders<br><br>
-<span>&#8226;</span> Discount due to overdone order or cancellation (selection)<br><br>
-<span>&#8226;</span> Daily revenue<br><br>
-<span>&#8226;</span> Employee database<br><br>
-<span>&#8226;</span> Allocation of employees' job<br><br>
-<span>&#8226;</span> Adding/deleting an employee<br><br>
-<span>&#8226;</span> Number of cooks changes order processing time<br><br>
-<span>&#8226;</span> Delivery and tip system<br><br>
-<span>&#8226;</span> Closing/opening a restaurant
+Symulacja restauracji z wykorzystaniem **wielowątkowości** oraz rozbudowanej logiki zarządzania zamówieniami, personelem i menu. Projekt w języku **Java**, przygotowany w ramach zajęć akademickich.
+
+## 📂 Zawartość repozytorium
+
+- `src/` – główny kod źródłowy aplikacji
+- `menu.txt` – przykładowe menu wczytywane z pliku
+- `RestaurantSimulation.iml` – plik konfiguracyjny IntelliJ
+- `.idea/` – pliki środowiska IntelliJ IDEA
+
+## ⚙️ Technologie
+
+- Java 17+
+- Programowanie obiektowe (OOP)
+- Programowanie współbieżne (multithreading)
+
+## 🪜 Funkcjonalności
+
+- Składanie zamówień:
+  - na miejscu (dla stolika)
+  - na wynos (z obsługą dostawy)
+- Kolejkowanie i priorytetyzacja zamówień
+- Obsługa opóźnień i przeterminowań
+- Edycja menu (dodawanie/usuwanie pozycji)
+- Zapisywanie i ładowanie menu z pliku
+- Baza danych pracowników:
+  - przypisywanie ról
+  - dodawanie/usuwanie pracowników
+- System napiwków i dziennych przychodów
+- Obsługa zamknięcia/otwarcia restauracji
+- Modyfikacja czasu realizacji zamówień w zależności od liczby kucharzy
+
+## 🚀 Jak uruchomić
+
+1. Otwórz projekt w IntelliJ IDEA lub innym IDE wspierającym Maven/Java.
+2. Uruchom klasę główną (np. `Main.java` w katalogu `src/`).
+3. Upewnij się, że plik `menu.txt` znajduje się w katalogu głównym projektu.
+
+## 👨‍💼 Autor
+**Filip Michalski**  
+Projekt zrealizowany w ramach kursu z programowania w języku Java. 
+Prezentuje praktyczne zastosowanie wielowątkowości oraz organizacji systemu zarządzania w symulowanym środowisku restauracyjnym.
